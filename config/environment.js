@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'aetienne-ember',
+    modulePrefix: 'aetienne.comEmber',
     environment,
     rootURL: '/',
     locationType: 'auto',
